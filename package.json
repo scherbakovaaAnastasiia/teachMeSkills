@@ -1,0 +1,19 @@
+{
+  "name": "myrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scherbakovaaAnastasiia/teachMeSkills.git"
+  },
+  "author": "Shcherbakova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scherbakovaaAnastasiia/teachMeSkills/issues"
+  },
+  "homepage": "https://github.com/scherbakovaaAnastasiia/teachMeSkills#readme"
+}
