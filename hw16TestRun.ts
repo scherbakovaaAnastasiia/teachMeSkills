@@ -1,0 +1,11 @@
+import { CalculatorTests } from "./hw16Tests";
+CalculatorTests.negativeTestAdd();
+CalculatorTests.positiveTestAdd();
+CalculatorTests.negativeTestSubtract();
+CalculatorTests.positiveTestSubtract();
+CalculatorTests.negativeTestMultiply();
+CalculatorTests.positiveTestMultiply();
+CalculatorTests.negativeTestDivide();
+CalculatorTests.positiveTestDivide();
+CalculatorTests.negativeTestRemainderOfDivision();
+CalculatorTests.positiveTestRemainderOfDivision();
